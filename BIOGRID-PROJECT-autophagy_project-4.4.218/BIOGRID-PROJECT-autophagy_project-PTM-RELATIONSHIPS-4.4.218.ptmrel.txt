@@ -1,0 +1,3 @@
+#PTM ID	Entrez Gene ID	BioGRID ID	Systematic Name	Official Symbol	Synonymns	Relationship	Identity	Author	Pubmed ID	Organism ID	Organism Name	Source Database
+1362842	9140	114587	-	ATG12	APG12|APG12L|FBR93|HAPG12	-	PTM	Otomo C (2013)	23202584	9606	Homo sapiens	BIOGRID
+1362874	9140	114587	-	ATG12	APG12|APG12L|FBR93|HAPG12	-	PTM	Nemoto T (2003)	12890687	9606	Homo sapiens	BIOGRID
