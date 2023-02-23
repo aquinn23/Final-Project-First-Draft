@@ -1,0 +1,70 @@
+#BIOGRID ID	ENTREZ GENE ID	SYSTEMATIC NAME	OFFICIAL SYMBOL	SYNONYMS	ORGANISM ID	ORGANISM NAME	INTERACTION COUNT	PTM COUNT	CHEMICAL INTERACTION COUNT	SOURCE	CATEGORY VALUES	CATEGORY IDS	CATEGORY TAGS	CATEGORY EVIDENCE VALUES	CATEGORY EVIDENCE IDS	CATEGORY EVIDENCE CLASSES	CATEGORY EVIDENCE METHODS
+120429	55120	-	FANCL	FAAP43|PHF9|POG	9606	Homo sapiens	192	33	0	BIOGRID	FA core complex|Ubiquitin Proteasome System	-	-	-	-	-	-
+132044	378708	-	APITD1	CENP-S|CENPS|FAAP16|MHF1	9606	Homo sapiens	115	5	0	BIOGRID	FA complex interacting protein	-	-	-	-	-	-
+113350	7516	-	XRCC2	-	9606	Homo sapiens	80	5	0	BIOGRID	DNA damage response	-	-	-	-	-	-
+109514	3280	-	HES1	HES-1|HHL|HRY|bHLHb39	9606	Homo sapiens	99	5	0	BIOGRID	FA complex interacting protein	-	-	-	-	-	-
+129033	254394	RP3-329L24.2	MCM9	C6orf61|MCMDC1|dJ329L24.1|dJ329L24.3	9606	Homo sapiens	109	11	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+117964	27033	-	ZBTB32	FAXF|FAZF|Rog|TZFP|ZNF538	9606	Homo sapiens	83	0	0	BIOGRID	FA complex interacting protein	-	-	-	-	-	-
+111596	5610	-	EIF2AK2	EIF2AK1|PKR|PPP1R83|PRKR	9606	Homo sapiens	537	71	2	BIOGRID	DNA damage response|Kinase/Phosphatase	-	-	-	-	-	-
+110438	4292	-	MLH1	COCA2|FCC2|HNPCC|HNPCC2|hMLH1	9606	Homo sapiens	460	159	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+108028	1663	-	DDX11	CHL1|CHLR1|KRG2|WABS	9606	Homo sapiens	89	385	0	BIOGRID	DNA damage response|Helicase	-	-	-	-	-	-
+119551	51455	-	REV1	REV1L	9606	Homo sapiens	93	19	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+131695	353497	RP11-317B7.1	POLN	POL4P	9606	Homo sapiens	42	1	0	BIOGRID	DNA damage response	-	-	-	-	-	-
+108472	2175	-	FANCA	FA|FA-H|FA1|FAA|FACA|FAH|FANCH	9606	Homo sapiens	514	145	0	BIOGRID	DNA damage response|FA core complex	-	-	-	-	-	-
+108473	2176	RP11-80I15.2	FANCC	FA3|FAC|FACC	9606	Homo sapiens	219	43	0	BIOGRID	DNA damage response|FA core complex	-	-	-	-	-	-
+108474	2177	-	FANCD2	FA-D2|FA4|FACD|FAD|FAD2|FANCD	9606	Homo sapiens	1109	139	1	BIOGRID	DNA damage response|FANC ID complex	-	-	-	-	-	-
+108475	2178	-	FANCE	FACE|FAE	9606	Homo sapiens	127	39	0	BIOGRID	DNA damage response|FA core complex	-	-	-	-	-	-
+122479	79008	-	SLX1B	GIYD2	9606	Homo sapiens	51	0	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+108384	2072	-	ERCC4	ERCC11|FANCQ|RAD1|XPF	9606	Homo sapiens	392	28	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+107420	983	-	CDK1	CDC2|CDC28A|P34CDC2	9606	Homo sapiens	898	134	14	BIOGRID	DNA damage response|Kinase/Phosphatase	-	-	-	-	-	-
+113162	7314	-	UBB	-	9606	Homo sapiens	531	291	3	BIOGRID	FA complex interacting protein|Ubiquitin Proteasome System	-	-	-	-	-	-
+128288	199990	RP11-181G12.3	C1orf86	FAAP20|FP7162	9606	Homo sapiens	125	5	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+113164	7316	-	UBC	HMG20	9606	Homo sapiens	3589	148	1	BIOGRID	FA complex interacting protein|Ubiquitin Proteasome System	-	-	-	-	-	-
+107140	672	-	BRCA1	BRCAI|BRCC1|BROVCA1|FANCS|IRIS|PNCA4|PPP1R53|PSCP|RNF53	9606	Homo sapiens	2525	107	0	BIOGRID	DNA damage response|Ubiquitin Proteasome System	-	-	-	-	-	-
+123170	80198	-	MUS81	SLX3	9606	Homo sapiens	167	4	0	BIOGRID	DNA damage response|Endonuclease	-	-	-	-	-	-
+107142	675	RP11-298P3.4	BRCA2	BRCC2|BROVCA2|FACD|FAD|FAD1|FANCD|FANCD1|GLM3|PNCA2|XRCC11	9606	Homo sapiens	562	100	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+127026	146956	-	EME1	MMS4L|SLX2A	9606	Homo sapiens	85	9	0	BIOGRID	DNA damage response|Endonuclease	-	-	-	-	-	-
+115263	9937	-	DCLRE1A	PSO2|SNM1|SNM1A	9606	Homo sapiens	31	21	0	BIOGRID	DNA damage response	-	-	-	-	-	-
+112147	6233	-	RPS27A	CEP80|HEL112|S27A|UBA80|UBC|UBCEP1|UBCEP80	9606	Homo sapiens	486	83	0	BIOGRID	DNA damage response|Ubiquitin Proteasome System	-	-	-	-	-	-
+108483	2188	-	FANCF	FAF	9606	Homo sapiens	108	5	0	BIOGRID	DNA damage response|FA core complex	-	-	-	-	-	-
+108482	2187	-	FANCB	FA2|FAAP90|FAAP95|FAB|FACB	9606	Homo sapiens	62	49	0	BIOGRID	DNA damage response|FA core complex	-	-	-	-	-	-
+112037	6117	-	RPA1	HSSB|MST075|REPA1|RF-A|RP-A|RPA70	9606	Homo sapiens	987	77	0	BIOGRID	DNA damage response	-	-	-	-	-	-
+108484	2189	-	FANCG	FAG|XRCC9	9606	Homo sapiens	288	6	0	BIOGRID	DNA damage response|FA core complex	-	-	-	-	-	-
+124833	91442	-	C19orf40	FAAP24	9606	Homo sapiens	63	0	0	BIOGRID	FA complex interacting protein	-	-	-	-	-	-
+112039	6119	-	RPA3	REPA3	9606	Homo sapiens	605	7	0	BIOGRID	DNA damage response	-	-	-	-	-	-
+112038	6118	RP4-547C9.3	RPA2	REPA2|RP-A p32|RP-A p34|RPA32	9606	Homo sapiens	854	43	0	BIOGRID	DNA damage response	-	-	-	-	-	-
+111825	5888	-	RAD51	BRCC5|HRAD51|HsRad51|HsT16930|MRMV2|RAD51A|RECA	9606	Homo sapiens	635	40	1	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+122843	79728	-	PALB2	FANCN|PNCA3	9606	Homo sapiens	231	5	0	BIOGRID	DNA damage response|FA core complex	-	-	-	-	-	-
+124097	84464	-	SLX4	BTBD12|FANCP|MUS312	9606	Homo sapiens	233	45	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+111826	5889	-	RAD51C	BROVCA3|FANCO|R51H3|RAD51L2	9606	Homo sapiens	134	55	0	BIOGRID	DNA damage response	-	-	-	-	-	-
+127922	165918	-	RNF168	hRNF168	9606	Homo sapiens	182	38	0	BIOGRID	DNA damage response|Ubiquitin Proteasome System	-	-	-	-	-	-
+128252	197342	-	EME2	SLX2B|gs125	9606	Homo sapiens	5	0	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+128376	201254	-	STRA13	CENP-X|CENPX|D9|FAAP10|MHF2	9606	Homo sapiens	83	1	0	BIOGRID	FA complex interacting protein	-	-	-	-	-	-
+114551	9097	-	USP14	TGT	9606	Homo sapiens	689	65	17	BIOGRID	DNA damage response|Ubiquitin Proteasome System	-	-	-	-	-	-
+313463	84126	hCG_1997849	ATRIP	-	9606	Homo sapiens	197	19	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+118858	29089	HSPC150	UBE2T	PIG50	9606	Homo sapiens	139	31	0	BIOGRID	DNA damage response|Ubiquitin Proteasome System	-	-	-	-	-	-
+120511	55215	-	FANCI	KIAA1794	9606	Homo sapiens	305	356	0	BIOGRID	DNA damage response|FANC ID complex	-	-	-	-	-	-
+114492	9025	-	RNF8	hRNF8	9606	Homo sapiens	472	24	0	BIOGRID	DNA damage response|Ubiquitin Proteasome System	-	-	-	-	-	-
+107536	1111	-	CHEK1	CHK1	9606	Homo sapiens	395	174	34	BIOGRID	DNA damage response|Kinase/Phosphatase	-	-	-	-	-	-
+120514	55218	-	EXD2	C14orf114|EXDL2	9606	Homo sapiens	411	62	0	BIOGRID	DNA damage response|Endonuclease	-	-	-	-	-	-
+113241	7398	-	USP1	UBP	9606	Homo sapiens	230	65	7	BIOGRID	DNA damage response|Ubiquitin Proteasome System	-	-	-	-	-	-
+120572	55284	-	UBE2W	UBC-16|UBC16	9606	Homo sapiens	136	1	0	BIOGRID	DNA damage response|Ubiquitin Proteasome System	-	-	-	-	-	-
+123196	80233	-	C17orf70	FAAP100	9606	Homo sapiens	201	4	0	BIOGRID	FA complex interacting protein	-	-	-	-	-	-
+106719	217	-	ALDH2	ALDH-E2|ALDHI|ALDM	9606	Homo sapiens	174	17	11	BIOGRID	Metabolic process	-	-	-	-	-	-
+106718	216	RP11-151D14.2	ALDH1A1	ALDC|ALDH-E1|ALDH1|ALDH11|HEL-9|HEL-S-53e|HEL12|PUMB1|RALDH1	9606	Homo sapiens	70	29	15	BIOGRID	Metabolic process	-	-	-	-	-	-
+107027	545	-	ATR	FCTCS|FRP1|MEC1|SCKL|SCKL1	9606	Homo sapiens	418	150	0	BIOGRID	DNA damage response|Kinase/Phosphatase	-	-	-	-	-	-
+117961	27030	-	MLH3	HNPCC7	9606	Homo sapiens	64	21	0	BIOGRID	DNA damage response	-	-	-	-	-	-
+108379	2067	-	ERCC1	COFS4|RAD10|UV20	9606	Homo sapiens	160	72	1	BIOGRID	DNA damage response|Endonuclease	-	-	-	-	-	-
+111404	5395	-	PMS2	HNPCC4|PMS2CL|PMSL2	9606	Homo sapiens	136	244	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+116573	22909	RP11-540B6.6	FAN1	KIAA1018|KMIN|MTMR15	9606	Homo sapiens	111	8	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+113159	7311	-	UBA52	CEP52|HUBCEP52|L40|RPL40	9606	Homo sapiens	336	195	0	BIOGRID	DNA damage response|Ubiquitin Proteasome System	-	-	-	-	-	-
+121649	57599	-	WDR48	P80|SPG60|UAF1	9606	Homo sapiens	286	158	3	BIOGRID	DNA damage response|Ubiquitin Proteasome System	-	-	-	-	-	-
+121722	57697	-	FANCM	FAAP250|KIAA1596	9606	Homo sapiens	207	54	0	BIOGRID	DNA damage response|FA core complex	-	-	-	-	-	-
+115722	10459	RP3-330O12.4	MAD2L2	MAD2B|POLZ2|REV7	9606	Homo sapiens	614	24	0	BIOGRID	DNA damage response	-	-	-	-	-	-
+113692	7979	-	SHFM1	DSS1|ECD|SEM1|SHFD1|SHSF1|Shfdg1	9606	Homo sapiens	221	3	0	BIOGRID	Ubiquitin Proteasome System	-	-	-	-	-	-
+122331	64858	-	DCLRE1B	APOLLO|SNM1B|SNMIB	9606	Homo sapiens	51	37	0	BIOGRID	DNA damage response	-	-	-	-	-	-
+123841	83990	-	BRIP1	BACH1|FANCJ|OF	9606	Homo sapiens	230	156	0	BIOGRID	DNA damage response|FA core complex	-	-	-	-	-	-
+113498	7704	-	ZBTB16	PLZF|ZNF145	9606	Homo sapiens	311	2	1	BIOGRID	DNA damage response|Ubiquitin Proteasome System	-	-	-	-	-	-
+139225	548593	-	SLX1A	GIYD1	9606	Homo sapiens	61	0	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
+106962	472	-	ATM	AT1|ATA|ATC|ATD|ATDC|ATE|TEL1|TELO1	9606	Homo sapiens	559	146	2	BIOGRID	DNA damage response|Kinase/Phosphatase	-	-	-	-	-	-
+124109	84515	-	MCM8	C20orf154|dJ967N21.5	9606	Homo sapiens	91	52	0	BIOGRID	DNA damage response|FA complex interacting protein	-	-	-	-	-	-
