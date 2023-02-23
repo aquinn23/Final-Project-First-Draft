@@ -1,0 +1,198 @@
+#BIOGRID ID	ENTREZ GENE ID	SYSTEMATIC NAME	OFFICIAL SYMBOL	SYNONYMS	ORGANISM ID	ORGANISM NAME	INTERACTION COUNT	PTM COUNT	CHEMICAL INTERACTION COUNT	SOURCE	CATEGORY VALUES	CATEGORY IDS	CATEGORY TAGS	CATEGORY EVIDENCE VALUES	CATEGORY EVIDENCE IDS	CATEGORY EVIDENCE CLASSES	CATEGORY EVIDENCE METHODS
+111307	5289	-	PIK3C3	VPS34|hVps34	9606	Homo sapiens	261	41	3	BIOGRID	Initiation complex	-	-	-	-	-	-
+111309	5291	-	PIK3CB	P110BETA|PI3K|PI3KBETA|PIK3C1	9606	Homo sapiens	145	69	1	BIOGRID	Signal transduction	-	-	-	-	-	-
+120117	54734	-	RAB39A	RAB39	9606	Homo sapiens	26	6	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+124372	84938	-	ATG4C	APG4-C|APG4C|AUTL1|AUTL3	9606	Homo sapiens	42	23	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+113985	8396	-	PIP4K2B	PI5P4KB|PIP5K2B|PIP5KIIB|PIP5KIIbeta	9606	Homo sapiens	104	26	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+106543	25	RP11-83J21.1	ABL1	ABL|JTK7|bcr/abl|c-ABL|c-ABL1|p150|v-abl	9606	Homo sapiens	514	20	46	BIOGRID	Signal transduction	-	-	-	-	-	-
+136224	440026	-	TMEM41B	-	9606	Homo sapiens	180	11	0	BIOGRID	Other/unknown	-	-	-	-	-	-
+117375	25851	tcag7.876	TECPR1	-	9606	Homo sapiens	29	0	0	BIOGRID	Lysosome	-	-	-	-	-	-
+121690	57655	-	GRAMD1A	KIAA1533	9606	Homo sapiens	218	91	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+124401	84971	-	ATG4D	APG4-D|APG4D|AUTL4	9606	Homo sapiens	17	8	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+119289	51100	CGI-61	SH3GLB1	Bif-1|PPP1R70|dJ612B15.2	9606	Homo sapiens	158	86	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+117174	23647	-	ARFIP2	POR1	9606	Homo sapiens	147	26	0	BIOGRID	Membrane delivery	-	-	-	-	-	-
+121594	57535	RP11-352P4.1	KIAA1324	EIG121	9606	Homo sapiens	66	0	0	BIOGRID	Other/unknown	-	-	-	-	-	-
+114465	8975	-	USP13	ISOT3|IsoT-3	9606	Homo sapiens	188	100	1	BIOGRID	Initiation complex	-	-	-	-	-	-
+121592	57533	-	TBC1D14	-	9606	Homo sapiens	55	4	0	BIOGRID	Membrane delivery	-	-	-	-	-	-
+130263	285973	-	ATG9B	APG9L2|NOS3AS|SONE	9606	Homo sapiens	40	0	0	BIOGRID	Membrane delivery	-	-	-	-	-	-
+121809	58476	RP5-1181N3.1	TP53INP2	C20orf110|DOR|PINH|dJ1181N3.1	9606	Homo sapiens	8	1	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+123230	80317	-	ZKSCAN3	ZF47|ZFP306|ZNF306|ZNF309|ZSCAN13|ZSCAN35|Zfp47|dJ874C20.1|dJ874C20.1.|zfp-47	9606	Homo sapiens	46	3	0	BIOGRID	Transcriptional regulation	-	-	-	-	-	-
+123724	83667	-	SESN2	HI95|SES2|SEST2	9606	Homo sapiens	66	6	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+114469	8987	GENX-3414	STBD1	GENEX3414	9606	Homo sapiens	175	2	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+113258	7415	-	VCP	ALS14|HEL-220|HEL-S-70|IBMPFD|IBMPFD1|TERA|p97	9606	Homo sapiens	2374	142	34	BIOGRID	Lysosome	-	-	-	-	-	-
+115576	10287	-	RGS19	GAIP|RGSGAIP	9606	Homo sapiens	40	8	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+113100	7249	-	TSC2	LAM|PPP1R160|TSC4	9606	Homo sapiens	323	501	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+122928	79837	-	PIP4K2C	PIP5K2C	9606	Homo sapiens	183	32	2	BIOGRID	Initiation complex	-	-	-	-	-	-
+125700	120892	-	LRRK2	AURA17|DARDARIN|PARK8|RIPK7|ROCO2	9606	Homo sapiens	719	3	2	BIOGRID	Other/unknown	-	-	-	-	-	-
+131916	374666	-	WASH3P	FAM39DP	9606	Homo sapiens	54	1	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+117550	26100	CGI-50	WIPI2	ATG18B|Atg21|WIPI-2	9606	Homo sapiens	118	61	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+121130	56270	hCG_30378	WDR45B	WDR45L|WIPI-3|WIPI3	9606	Homo sapiens	86	30	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+123910	84141	SP24	EVA1A	FAM176A|TMEM166	9606	Homo sapiens	13	13	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+126704	140775	-	SMCR8	-	9606	Homo sapiens	144	17	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+121223	56893	RP11-336K24.8	UBQLN4	A1U|A1Up|C1orf6|CIP75|UBIN	9606	Homo sapiens	310	27	0	BIOGRID	Lysosome	-	-	-	-	-	-
+111549	5562	-	PRKAA1	AMPK|AMPKa1	9606	Homo sapiens	414	61	17	BIOGRID	Signal transduction	-	-	-	-	-	-
+121746	57724	-	EPG5	HEEW1|KIAA1632|VICIS|hEPG5	9606	Homo sapiens	13	22	0	BIOGRID	Lysosome	-	-	-	-	-	-
+123619	81876	-	RAB1B	-	9606	Homo sapiens	314	12	0	BIOGRID	Lysosome	-	-	-	-	-	-
+107197	738	PP5382	VPS51	ANG2|ANG3|C11orf2|C11orf3|FFR	9606	Homo sapiens	229	9	0	BIOGRID	Lysosome	-	-	-	-	-	-
+110253	4077	MIG19	NBR1	1A1-3B|IAI3B|M17S2	9606	Homo sapiens	466	168	0	BIOGRID	Ubiquitin-mediated cargo selection	-	-	-	-	-	-
+568619	643246	-	MAP1LC3B2	ATG8G	9606	Homo sapiens	26	14	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+119749	53349	PP10436	ZFYVE1	DFCP1|PPP1R172|SR3|TAFF1|ZNFN2A1	9606	Homo sapiens	57	11	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+112188	6280	-	S100A9	60B8AG|CAGB|CFAG|CGLB|L1AG|LIAG|MAC387|MIF|MRP14|NIF|P14	9606	Homo sapiens	296	7	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+113624	7879	-	RAB7A	PRO2706|RAB7	9606	Homo sapiens	1090	18	1	BIOGRID	Lysosome	-	-	-	-	-	-
+117223	23710	-	GABARAPL1	APG8-LIKE|APG8L|ATG8|ATG8B|ATG8L|GEC1	9606	Homo sapiens	240	15	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+114665	9236	-	CCPG1	CPR8	9606	Homo sapiens	119	103	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+118961	29919	-	C18orf8	HsT2591|MIC1|Mic-1	9606	Homo sapiens	152	25	0	BIOGRID	Lysosome	-	-	-	-	-	-
+121582	57521	-	RPTOR	KOG1|Mip1	9606	Homo sapiens	630	48	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+112187	6279	-	S100A8	60B8AG|CAGA|CFAG|CGLA|CP-10|L1Ag|MA387|MIF|MRP8|NIF|P8	9606	Homo sapiens	196	2	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+119503	51368	UNQ337/PRO536	TEX264	ZSIG11	9606	Homo sapiens	261	40	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+116251	11067	-	C10orf10	DEPP|FIG|Fseg	9606	Homo sapiens	9	0	0	BIOGRID	Other/unknown	-	-	-	-	-	-
+117266	23766	-	GABARAPL3	ATG8D	9606	Homo sapiens	1	0	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+108597	2308	-	FOXO1	FKH1|FKHR|FOXO1A	9606	Homo sapiens	183	1	0	BIOGRID	Transcriptional regulation	-	-	-	-	-	-
+125418	115201	RP5-889N15.2	ATG4A	APG4A|AUTL2	9606	Homo sapiens	42	6	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+131965	375260	-	WASH2P	FAM39B	9606	Homo sapiens	7	1	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+120729	55578	FP757	SUPT20H	C13|C13orf19|FAM48A|P38IP|SPT20	9606	Homo sapiens	151	49	0	BIOGRID	Membrane delivery	-	-	-	-	-	-
+938833	100287171	-	WASH1	FAM39E|WASH	9606	Homo sapiens	100	32	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+115160	9821	-	RB1CC1	ATG17|CC1|FIP200|PPP1R131	9606	Homo sapiens	466	78	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+112615	6737	-	TRIM21	RNF81|RO52|Ro/SSA|SSA|SSA1	9606	Homo sapiens	427	11	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+120546	55255	MSTP048	WDR41	-	9606	Homo sapiens	148	57	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+120545	55254	-	TMEM39A	-	9606	Homo sapiens	76	20	0	BIOGRID	Lysosome	-	-	-	-	-	-
+138922	493856	-	CISD2	ERIS|Miner1|NAF-1|WFS2|ZCD2	9606	Homo sapiens	278	10	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+112670	6794	-	STK11	LKB1|PJS|hLKB1	9606	Homo sapiens	438	2	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+125507	116442	RP13-228J13.2	RAB39B	MRX72	9606	Homo sapiens	71	5	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+112868	7009	-	TMBIM6	BAXI1|BI-1|TEGT	9606	Homo sapiens	138	15	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+119314	51127	RP5-915N17.1	TRIM17	RBCC|RNF16|terf	9606	Homo sapiens	54	1	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+107623	1213	-	CLTC	CHC|CHC17|CLH-17|CLTCL2|Hc	9606	Homo sapiens	824	187	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+111550	5563	-	PRKAA2	AMPK|AMPK2|AMPKa2|PRKAA	9606	Homo sapiens	308	13	5	BIOGRID	Signal transduction	-	-	-	-	-	-
+132073	378884	-	NHLRC1	EPM2A|EPM2B|MALIN|bA204B7.2	9606	Homo sapiens	57	1	0	BIOGRID	Ubiquitin-mediated cargo selection	-	-	-	-	-	-
+119978	54472	-	TOLLIP	IL-1RAcPIP	9606	Homo sapiens	445	26	0	BIOGRID	Ubiquitin-mediated cargo selection	-	-	-	-	-	-
+114859	9474	-	ATG5	APG5|APG5-LIKE|APG5L|ASP|hAPG5	9606	Homo sapiens	236	19	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+122220	64601	RP11-12M19.2	VPS16	hVPS16	9606	Homo sapiens	221	43	0	BIOGRID	Lysosome	-	-	-	-	-	-
+114914	9538	-	EI24	EPG4|PIG8|TP53I8	9606	Homo sapiens	132	20	0	BIOGRID	Ubiquitin-mediated cargo selection	-	-	-	-	-	-
+113996	8408	-	ULK1	ATG1|ATG1A|UNC51|Unc51.1|hATG1	9606	Homo sapiens	312	15	14	BIOGRID	Initiation complex	-	-	-	-	-	-
+115178	9842	-	PLEKHM1	AP162|B2|OPTB6	9606	Homo sapiens	85	4	0	BIOGRID	Lysosome	-	-	-	-	-	-
+113993	8405	-	SPOP	BTBD32|TEF2	9606	Homo sapiens	532	82	10	BIOGRID	Ubiquitin-mediated cargo selection	-	-	-	-	-	-
+126666	140710	RP3-469A13.2	SOGA1	C20orf117|KIAA0889|SOGA	9606	Homo sapiens	143	83	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+116531	22863	-	ATG14	ATG14L|BARKOR|KIAA0831	9606	Homo sapiens	224	12	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+120380	55062	-	WIPI1	ATG18|ATG18A|WIPI49	9606	Homo sapiens	61	2	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+109654	3428	-	IFI16	IFNGIP1|PYHIN2	9606	Homo sapiens	948	283	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+116925	23339	-	VPS39	TLP|VAM6|hVam6p	9606	Homo sapiens	83	35	0	BIOGRID	Lysosome	-	-	-	-	-	-
+114587	9140	-	ATG12	APG12|APG12L|FBR93|HAPG12	9606	Homo sapiens	136	8	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+114359	8832	-	CD84	LY9B|SLAMF5|hCD84|mCD84	9606	Homo sapiens	10	17	0	BIOGRID	Xenophagy	-	-	-	-	-	-
+115488	10193	SBBI03	RNF41	FLRF|NRDP1	9606	Homo sapiens	301	20	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+126561	139341	RP4-551E13.3	FUNDC1	-	9606	Homo sapiens	44	6	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+117604	26191	-	PTPN22	LYP|LYP1|LYP2|PEP|PTPN8	9606	Homo sapiens	59	130	0	BIOGRID	Other/unknown	-	-	-	-	-	-
+110374	4210	-	MEFV	FMF|MEF|TRIM20	9606	Homo sapiens	23	0	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+107130	662	TRG8	BNIP1	NIP1|SEC20|TRG-8	9606	Homo sapiens	197	37	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+107132	664	-	BNIP3	NIP3	9606	Homo sapiens	142	9	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+107133	665	-	BNIP3L	BNIP3a|NIX	9606	Homo sapiens	104	15	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+114904	9528	RP4-758J24.2	TMEM59	C1orf8|HSPC001	9606	Homo sapiens	253	39	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+117326	25793	LL22NC03-28H9.2	FBXO7	FBX|FBX07|FBX7|PARK15|PKPS	9606	Homo sapiens	795	19	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+115598	10313	-	RTN3	ASYIP|HAP|NSPL2|NSPLII|RTN3-A1	9606	Homo sapiens	196	68	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+106807	310	RP11-537A6.8	ANXA7	ANX7|SNX|SYNEXIN	9606	Homo sapiens	181	43	0	BIOGRID	Other/unknown	-	-	-	-	-	-
+131358	345611	-	IRGM	IFI1|IRGM1|LRG-47|LRG47	9606	Homo sapiens	30	0	0	BIOGRID	Xenophagy	-	-	-	-	-	-
+120930	55823	PP3476	VPS11	END1|PEP5|RNF108|hVPS11	9606	Homo sapiens	165	75	0	BIOGRID	Lysosome	-	-	-	-	-	-
+111799	5861	-	RAB1A	RAB1|YPT1	9606	Homo sapiens	553	28	0	BIOGRID	Membrane delivery	-	-	-	-	-	-
+115062	9711	hCG_22771	KIAA0226	RUBICON|SCAR15	9606	Homo sapiens	104	19	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+110382	4218	-	RAB8A	MEL|RAB8	9606	Homo sapiens	251	15	0	BIOGRID	Other/unknown	-	-	-	-	-	-
+106962	472	-	ATM	AT1|ATA|ATC|ATD|ATDC|ATE|TEL1|TELO1	9606	Homo sapiens	559	146	2	BIOGRID	Organellophagy	-	-	-	-	-	-
+117423	25923	-	ATL3	HSN1F	9606	Homo sapiens	261	52	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+122849	79735	-	TBC1D17	-	9606	Homo sapiens	58	13	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+116323	11152	JM5	WDR45	NBIA4|NBIA5|WDRX1|WIPI-4|WIPI4	9606	Homo sapiens	67	11	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+117982	27072	-	VPS41	HVPS41|HVSP41|hVps41p	9606	Homo sapiens	131	31	0	BIOGRID	Lysosome	-	-	-	-	-	-
+115120	9776	-	ATG13	KIAA0652|PARATARG8	9606	Homo sapiens	311	17	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+114226	8678	-	BECN1	ATG6|VPS30|beclin1	9606	Homo sapiens	627	74	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+115123	9779	-	TBC1D5	-	9606	Homo sapiens	118	102	0	BIOGRID	Membrane delivery	-	-	-	-	-	-
+115436	10133	RP11-730A19.1	OPTN	ALS12|FIP2|GLC1E|HIP7|HYPL|NRP|TFIIIA-INTP	9606	Homo sapiens	662	85	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+114221	8673	-	VAMP8	EDB|VAMP-8	9606	Homo sapiens	160	8	0	BIOGRID	Lysosome	-	-	-	-	-	-
+129869	284417	-	TMEM150B	TMEM224	9606	Homo sapiens	0	0	0	BIOGRID	Other/unknown	-	-	-	-	-	-
+119007	29979	-	UBQLN1	DA41|DSK2|PLIC-1|UBQN|XDRP1	9606	Homo sapiens	609	31	0	BIOGRID	Lysosome	-	-	-	-	-	-
+119006	29978	HRIHFB2157	UBQLN2	ALS15|CHAP1|DSK2|N4BP4|PLIC2	9606	Homo sapiens	924	11	0	BIOGRID	Lysosome	-	-	-	-	-	-
+109621	3394	-	IRF8	H-ICSBP|ICSBP|ICSBP1|IMD32A|IMD32B|IRF-8	9606	Homo sapiens	69	3	0	BIOGRID	Transcriptional regulation	-	-	-	-	-	-
+116446	11315	CTA-215D11.1	PARK7	DJ-1|DJ1|HEL-S-67p	9606	Homo sapiens	452	28	2	BIOGRID	Organellophagy	-	-	-	-	-	-
+137882	441925	-	BECN1P1	BECN1L1|BECN2	9606	Homo sapiens	13	0	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+119009	29982	RP11-144G16.2	NRBF2	COPR1|COPR2|NRBF-2	9606	Homo sapiens	129	8	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+114748	9342	-	SNAP29	CEDNIK|SNAP-29	9606	Homo sapiens	387	13	0	BIOGRID	Lysosome	-	-	-	-	-	-
+112962	7107	RP5-985L19.1	GPR137B	TM7SF1	9606	Homo sapiens	19	0	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+112888	7030	-	TFE3	RCCP2|RCCX1|TFEA|bHLHe33	9606	Homo sapiens	56	7	0	BIOGRID	Transcriptional regulation	-	-	-	-	-	-
+122561	79142	-	PHF23	hJUNE-1b	9606	Homo sapiens	52	6	0	BIOGRID	Ubiquitin-mediated cargo selection	-	-	-	-	-	-
+120498	55201	-	MAP1S	BPY2IP1|C19orf5|MAP8|VCY2IP-1|VCY2IP1	9606	Homo sapiens	160	77	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+119969	54463	-	FAM134B	JK-1|JK1	9606	Homo sapiens	71	2	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+110997	4943	-	TBC1D25	MG81|OATL1	9606	Homo sapiens	82	4	0	BIOGRID	Lysosome	-	-	-	-	-	-
+115058	9706	-	ULK2	ATG1B|Unc51.2	9606	Homo sapiens	30	8	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+121948	60673	PP894	ATG101	C12orf44	9606	Homo sapiens	139	21	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+120412	55102	-	ATG2B	C14orf103	9606	Homo sapiens	94	9	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+113771	8100	RP11-172H24.2	IFT88	D13S1056E|DAF19|TG737|TTC10|hTg737	9606	Homo sapiens	79	129	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+113679	7957	RP1-28C20.2	EPM2A	EPM2|MELF	9606	Homo sapiens	98	1	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+124836	91452	RP11-85G18.5	ACBD5	-	9606	Homo sapiens	253	444	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+124834	91445	-	RNF185	-	9606	Homo sapiens	263	4	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+107981	1611	-	DAP	-	9606	Homo sapiens	10	5	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+123818	83933	RP3-402G11.7	HDAC10	HD10	9606	Homo sapiens	79	3	2	BIOGRID	Lysosome	-	-	-	-	-	-
+113248	7405	-	UVRAG	DHTX|VPS38|p63	9606	Homo sapiens	164	26	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+110114	3920	-	LAMP2	CD107b|LAMP-2|LAMPB|LGP110	9606	Homo sapiens	694	5	0	BIOGRID	Lysosome	-	-	-	-	-	-
+115224	9895	-	TECPR2	KIAA0329|SPG49	9606	Homo sapiens	21	7	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+120222	54874	-	FNBP1L	C1orf39|TOCA1	9606	Homo sapiens	54	68	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+121664	57617	-	VPS18	PEP3	9606	Homo sapiens	244	29	0	BIOGRID	Lysosome	-	-	-	-	-	-
+107710	1315	MSTP026	COPB1	COPB	9606	Homo sapiens	354	121	0	BIOGRID	Lysosome	-	-	-	-	-	-
+122376	65018	-	PINK1	BRPK|PARK6	9606	Homo sapiens	860	8	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+116593	22933	-	SIRT2	SIR2|SIR2L|SIR2L2	9606	Homo sapiens	217	32	2	BIOGRID	Ubiquitin-mediated cargo selection	-	-	-	-	-	-
+123565	81631	-	MAP1LC3B	ATG8F|LC3B|MAP1A/1BLC3|MAP1LC3B-a	9606	Homo sapiens	703	8	4	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+123567	81671	HSPC292	VMP1	EPG3|TANGO5|TMEM49	9606	Homo sapiens	219	56	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+125465	115992	-	RNF166	-	9606	Homo sapiens	154	25	0	BIOGRID	Ubiquitin-mediated cargo selection	-	-	-	-	-	-
+116748	23130	-	ATG2A	-	9606	Homo sapiens	50	0	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+123745	83734	PP12616	ATG10	APG10|APG10L	9606	Homo sapiens	222	0	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+122171	64422	-	ATG3	APG3|APG3-LIKE|APG3L|PC3-96	9606	Homo sapiens	336	24	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+110851	4779	-	NFE2L1	LCR-F1|NRF1|TCF11	9606	Homo sapiens	59	55	1	BIOGRID	Transcriptional regulation	-	-	-	-	-	-
+120765	55626	-	AMBRA1	DCAF3|WDR94	9606	Homo sapiens	425	60	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+130035	285180	-	RUFY4	-	9606	Homo sapiens	21	0	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+123162	80183	RP11-247M1.4	KIAA0226L	C13orf18	9606	Homo sapiens	25	13	0	BIOGRID	Lysosome	-	-	-	-	-	-
+109389	3146	RP11-550P23.1	HMGB1	HMG1|HMG3|SBP-1	9606	Homo sapiens	484	180	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+126108	128338	PSEC0031	DRAM2	PRO180|TMEM77|WWFQ154	9606	Homo sapiens	6	0	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+123597	81846	-	SBF2	CMT4B2|DENND7B|MTMR13	9606	Homo sapiens	60	22	0	BIOGRID	Lysosome	-	-	-	-	-	-
+128456	203228	-	C9orf72	ALSFTD|FTDALS	9606	Homo sapiens	159	3	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+115535	10241	-	CALCOCO2	NDP52	9606	Homo sapiens	713	107	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+113668	7942	RP4-696P19.3	TFEB	ALPHATFEB|BHLHE35|TCFEB	9606	Homo sapiens	58	8	0	BIOGRID	Transcriptional regulation	-	-	-	-	-	-
+128387	201475	-	RAB12	-	9606	Homo sapiens	31	5	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+111322	5305	RP11-301N24.1	PIP4K2A	PI5P4KA|PIP5K2A|PIP5KII-alpha|PIP5KIIA|PIPK	9606	Homo sapiens	302	25	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+115799	10548	-	TM9SF1	HMP70|MP70	9606	Homo sapiens	106	5	0	BIOGRID	Other/unknown	-	-	-	-	-	-
+110432	4286	-	MITF	CMM8|MI|WS2|WS2A|bHLHe32	9606	Homo sapiens	72	42	0	BIOGRID	Transcriptional regulation	-	-	-	-	-	-
+120375	55054	hCG_1817841	ATG16L1	APG16L|ATG16A|ATG16L|IBD10|WDR30	9606	Homo sapiens	945	41	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+121729	57705	hCG_1745555	WDFY4	C10orf64	9606	Homo sapiens	3	12	0	BIOGRID	Other/unknown	-	-	-	-	-	-
+122518	79065	-	ATG9A	APG9L1|MGD3208|mATG9	9606	Homo sapiens	528	15	0	BIOGRID	Membrane delivery	-	-	-	-	-	-
+114480	9001	-	HAP1	HAP2|HIP5|HLP|hHLP1	9606	Homo sapiens	186	0	0	BIOGRID	Lysosome	-	-	-	-	-	-
+118868	29100	HSPC171	TMEM208	-	9606	Homo sapiens	58	2	0	BIOGRID	Ubiquitin-mediated cargo selection	-	-	-	-	-	-
+115255	9927	RP5-1077B9.3	MFN2	CMT2A|CMT2A2|CPRP1|HSG|MARF	9606	Homo sapiens	183	153	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+114405	8887	PRO0105	TAX1BP1	CALCOCO3|T6BP|TXBP151	9606	Homo sapiens	464	244	0	BIOGRID	Ubiquitin-mediated cargo selection	-	-	-	-	-	-
+122669	79443	-	FYCO1	CATC2|CTRCT18|RUFY3|ZFYVE7	9606	Homo sapiens	149	41	0	BIOGRID	Lysosome	-	-	-	-	-	-
+116465	11337	HT004	GABARAP	ATG8A|GABARAP-a|MM46	9606	Homo sapiens	236	8	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+115787	10533	-	ATG7	APG7-LIKE|APG7L|GSA7	9606	Homo sapiens	496	80	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+115330	10013	JM21	HDAC6	CPBHM|HD6|PPP1R90	9606	Homo sapiens	1283	53	224	BIOGRID	Lysosome	-	-	-	-	-	-
+127621	157753	-	TMEM74	NET36	9606	Homo sapiens	125	1	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+124754	90678	UNQ6496/PRO21356	LRSAM1	CMT2P|RIFLE|TAL	9606	Homo sapiens	109	107	0	BIOGRID	Ubiquitin-mediated cargo selection	-	-	-	-	-	-
+111105	5071	KB-152G3.1	PARK2	AR-JP|LPRS2|PDJ|PRKN	9606	Homo sapiens	5904	50	1	BIOGRID	Organellophagy	-	-	-	-	-	-
+124137	84557	RP11-346K17.1	MAP1LC3A	ATG8E|LC3|LC3A|MAP1ALC3|MAP1BLC3	9606	Homo sapiens	386	16	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+123953	84219	LA16c-313D11.2	WDR24	C16orf21|JFP7	9606	Homo sapiens	75	4	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+136426	440275	-	EIF2AK4	GCN2|PVOD2	9606	Homo sapiens	88	8	1	BIOGRID	Transcriptional regulation	-	-	-	-	-	-
+124711	90410	-	IFT20	-	9606	Homo sapiens	192	14	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+116647	23001	-	WDFY3	ALFY|ZFYVE25	9606	Homo sapiens	137	106	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+116473	11345	-	GABARAPL2	ATG8|ATG8C|GATE-16|GATE16|GEF-2|GEF2	9606	Homo sapiens	252	7	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+121207	56834	-	GPR137	C11orf4|GPR137A|TM7SF1L1	9606	Homo sapiens	8	0	0	BIOGRID	Signal transduction	-	-	-	-	-	-
+114554	9100	-	USP10	UBPO	9606	Homo sapiens	475	157	2	BIOGRID	Initiation complex	-	-	-	-	-	-
+124491	85363	-	TRIM5	RNF88|TRIM5alpha	9606	Homo sapiens	144	105	0	BIOGRID	Xenophagy	-	-	-	-	-	-
+118878	29110	-	TBK1	NAK|T2K	9606	Homo sapiens	676	59	2	BIOGRID	Xenophagy	-	-	-	-	-	-
+120346	55014	-	STX17	-	9606	Homo sapiens	301	22	0	BIOGRID	Lysosome	-	-	-	-	-	-
+116801	23192	-	ATG4B	APG4B|AUTL1	9606	Homo sapiens	177	9	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+117470	25989	-	ULK3	-	9606	Homo sapiens	58	22	5	BIOGRID	Initiation complex	-	-	-	-	-	-
+123654	83452	-	RAB33B	SMC2	9606	Homo sapiens	56	3	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+114397	8878	-	SQSTM1	A170|OSIL|PDB3|ZIP3|p60|p62|p62B	9606	Homo sapiens	1981	66	1	BIOGRID	Ubiquitin-mediated cargo selection	-	-	-	-	-	-
+121369	57103	-	C12orf5	FR2BP|TIGAR	9606	Homo sapiens	66	11	0	BIOGRID	Organellophagy	-	-	-	-	-	-
+130988	340061	-	TMEM173	ERIS|MITA|MPYS|NET23|SAVI|STING|hMITA|hSTING	9606	Homo sapiens	193	8	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+119694	51715	RP3-496N17.3	RAB23	HSPC137	9606	Homo sapiens	71	36	0	BIOGRID	Xenophagy	-	-	-	-	-	-
+122390	65082	-	VPS33A	-	9606	Homo sapiens	323	37	0	BIOGRID	Lysosome	-	-	-	-	-	-
+136855	440738	-	MAP1LC3C	ATG8J|LC3C	9606	Homo sapiens	111	1	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+120613	55332	-	DRAM1	DRAM	9606	Homo sapiens	11	0	0	BIOGRID	Lysosome	-	-	-	-	-	-
+119059	30849	-	PIK3R4	VPS15|p150	9606	Homo sapiens	180	36	0	BIOGRID	Initiation complex	-	-	-	-	-	-
+119817	53917	-	RAB24	-	9606	Homo sapiens	37	13	0	BIOGRID	Lysosome	-	-	-	-	-	-
+125152	94241	-	TP53INP1	SIP|TP53DINP1|TP53INP1A|TP53INP1B|Teap|p53DINP1	9606	Homo sapiens	48	0	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+113331	7494	-	XBP1	TREB5|XBP-1|XBP2	9606	Homo sapiens	58	11	0	BIOGRID	Transcriptional regulation	-	-	-	-	-	-
+124620	89849	-	ATG16L2	ATG16B|WDR80	9606	Homo sapiens	51	0	0	BIOGRID	ATG conjugation system	-	-	-	-	-	-
+116875	23274	-	CLEC16A	Gop-1|KIAA0350	9606	Homo sapiens	27	42	0	BIOGRID	Organellophagy	-	-	-	-	-	-
