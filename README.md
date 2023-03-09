@@ -1,4 +1,4 @@
-# Final Term Project Ledgar 
+# Final Term Project Ledgar Quinn
 
 BioGRID created a themed curation project in respones to COVID-19. The purpse of this is to aid global researchers and create new therapeutic approaches while highlighting the importance of open access. BioGRID also hosts diverse datasets related to gene/protein, phenotype, and cell line. 
 
