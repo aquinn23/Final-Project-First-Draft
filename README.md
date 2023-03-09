@@ -12,6 +12,8 @@ Fed School Code contains 634 KB of federal school codes.
 
 Copyright License Policy 
 
+Data and Metadata Assignment Revised with peer and instructor suggestions
+
 Data and Metadata Assignment Unrevised 
 
 Human Subject Consideration Policy 
