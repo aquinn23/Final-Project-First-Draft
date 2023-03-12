@@ -26,4 +26,4 @@ Repository Profile Assignment Unrevised
 
 Themed Curation Project screenshot with description taken from BioGRID website. 
 
-DISEASE-ALLIACNE is added to fulfill JSON requirement. There was no JSON or XML files on BioGRID. 
+DISEASE-ALLIACNE is from Alliance of Genome Resources and added to fulfill JSON requirement. There was no JSON or XML files on BioGRID.
