@@ -25,3 +25,5 @@ Repository Profile Assignment with peers and instructor suggestions
 Repository Profile Assignment Unrevised 
 
 Themed Curation Project screenshot with description taken from BioGRID website. 
+
+DISEASE-ALLIACNE is added to fulfill JSON requirement. There was no JSON or XML files on BioGRID. 
